@@ -1,0 +1,3 @@
+[submodule "demo-compose/kanban-board"]
+	path = demo-compose/kanban-board
+	url = https://github.com/azouz34200/kanban-board.git
